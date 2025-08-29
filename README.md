@@ -22,7 +22,7 @@ This component mimics an app demo experience by pairing an iPhone mockup with dy
   - After the last feature, normal page scrolling resumes.  
 
 - **Auto-Scroll**  
-  - Features auto-advance every **1.5 seconds**.  
+  - Features auto-advance every **2 seconds**.  
   - Loops through features 1 → 5, then continues natural scrolling.  
 
 - **Responsive Design**  
